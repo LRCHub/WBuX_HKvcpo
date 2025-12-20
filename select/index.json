@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "鳥 feat. 幸祜,春猿火",
+  "base_artist": "Guiano,幸祜,春猿火",
+  "createdAt": "2025-12-20T14:18:25.871928Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "鳥",
+      "artist": "angela",
+      "has_synced": false,
+      "path": "select/01_鳥_angela.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "鳥 feat. 幸祜,春猿火 (鸟)",
+      "artist": "Guiano/幸祜/春猿火",
+      "has_synced": true,
+      "path": "select/02_鳥_feat._幸祜,春猿火_(鸟)_Guiano_幸祜_春猿火.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "鳥 - feat. 幸祜,春猿火",
+      "artist": "Guiano, 幸祜 & 春猿火",
+      "has_synced": true,
+      "path": "select/03_鳥_-_feat._幸祜,春猿火_Guiano,_幸祜_&_春猿火.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鳥 - feat. 幸祜,春猿火",
+      "artist": "Guiano, 幸祜, 春猿火",
+      "has_synced": false,
+      "path": "select/pl_01_鳥_-_feat._幸祜,春猿火_Guiano,_幸祜,_春猿火.txt"
+    }
+  ]
+}
